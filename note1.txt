@@ -1,0 +1,18 @@
+
+resolve the vertical offset
+=> white-space: nowrap  (not no-wrap)
+************************
+by default outline highlight when I click 
+in the input field with the same color
+as the text
+outline: none; /*remove the hightlight*/
+
+************************
+
+nav.close ~ .dashboard .top
+General sibling selector: selects all 
+dashboard .top elements that are next
+siblings of nav.close elements.
+
+************************
+
